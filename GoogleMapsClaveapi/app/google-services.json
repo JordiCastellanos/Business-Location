@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970346832472",
+    "firebase_url": "https://business-location-99b03.firebaseio.com",
+    "project_id": "business-location-99b03",
+    "storage_bucket": "business-location-99b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970346832472:android:9dd9f4b00fddb630",
+        "android_client_info": {
+          "package_name": "example.jesus.googlemapsclaveapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970346832472-lmkoo8t765sopu78sfllffv6no5nbmsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjCdCAB7xZnuYAr5znX9GtjJzsrvhZJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
